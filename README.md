@@ -2,6 +2,8 @@
 
 Bu repo Kodluyoruz Front-End Eğitiminde oluşturduğum ilk repo. İçerisinde bir adet README dosyası, bir adet png dosyası, bir adet de index.html barındırıyor.
 
+![Kodluyoruz Sayfamız](github.png)
+
 ## Installation
 
 Öncelikle projeyi clonelayın.
@@ -29,4 +31,4 @@ Pull requestler kabul edilir.
 
 [MIT](https://choosealicense.com/licenses/mit/)
 
-![Kodluyoruz Sayfamız](github.png)
+
