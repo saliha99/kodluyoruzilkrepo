@@ -29,4 +29,4 @@ Pull requestler kabul edilir.
 
 [MIT](https://choosealicense.com/licenses/mit/)
 
-[Kodluyoruz Sayfamız](github.png)
+![Kodluyoruz Sayfamız](github.png)
